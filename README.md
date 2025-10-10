@@ -1,6 +1,5 @@
 
-# 💫 About Me:
-💫 Currently seeking a full-time position as:<br><br>Junior System Developer<br><br>Junior Web Developer<br><br>✨ Skilled in:<br><br>.NET, React, TypeScript<br><br>Full-Stack Development<br><br>Modern Web Applications<br><br>This is an exciting step from education to professional life! 🚀 With my technical stack and dedication, I am confident I will find great opportunities.<br><br>
+
 
 
 ## 🌐 Socials:
