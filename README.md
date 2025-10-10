@@ -1,5 +1,10 @@
 
+Driven .NET Developer | Fullstack & Cloud Solutions
+Passionate about building scalable, high-impact applications with clean architecture and modern tech. My expertise spans C#, .NET, ASP.NET Core, SQL/Entity Framework, and frontend technologies like React, TypeScript, and Next.js. I specialize in creating seamless user experiences, integrating headless CMS platforms, and deploying robust backend systems.
 
+What sets me apart:
+🔹 A strong focus on performance, maintainability, and usability
+🔹 Experience developing fullstack e-commerce platforms, mobile apps, and CMS-driven solutions
 
 
 ## 🌐 Socials:
